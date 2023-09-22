@@ -1,6 +1,6 @@
 <h1>Hi 🙋‍♂️! Welcome to my profile!</h1>
 <p>I'm Nicolas, Fullstack developer from <img src="https://cdn.icon-icons.com/icons2/1694/PNG/512/arargentinaflag_111670.png" width="13"/> <b>Corrientes, Argentina.</b></p>
-<h3>Things I code with</h3>
+<h2>The tools I work with 🛠️ </h2>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
